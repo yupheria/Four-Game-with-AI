@@ -1,0 +1,23 @@
+Four! Match
+
+Match Date : 17-Sep-2008 09:38 AM
+
+Red Player : euphy
+Blue Player: lunamaria
+
+Match Transcript:
+10 (euphy)
+03 (lunamaria)
+11 (euphy)
+09 (lunamaria)
+03 (euphy)
+10 (lunamaria)
+11 (euphy)
+09 (lunamaria)
+09 (euphy)
+10 (lunamaria)
+11 (euphy)
+11 (lunamaria)
+05 (euphy)
+
+euphy Wins (Four!)

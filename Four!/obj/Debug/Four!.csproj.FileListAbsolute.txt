@@ -1,0 +1,20 @@
+E:\Four! + AI\Four!\obj\Debug\Four!.exe
+E:\Four! + AI\Four!\obj\Debug\Four!.pdb
+E:\Four! + AI\Four!\bin\Debug\Four!.exe
+E:\Four! + AI\Four!\bin\Debug\Four!.pdb
+E:\Four! + AI\Four!\obj\Debug\ResolveAssemblyReference.cache
+E:\Four! + AI\Four!\obj\Debug\Four_.Form1.resources
+E:\Four! + AI\Four!\obj\Debug\Four_.Form2.resources
+E:\Four! + AI\Four!\obj\Debug\Four_.Properties.Resources.resources
+E:\Four! + AI\Four!\obj\Debug\Four_.Resource1.resources
+E:\Four! + AI\Four!\obj\Debug\Four!.csproj.GenerateResource.Cache
+C:\Documents and Settings\Euphie\My Documents\Four! + AI\Four!\obj\Debug\Four!.exe
+C:\Documents and Settings\Euphie\My Documents\Four! + AI\Four!\obj\Debug\Four!.pdb
+C:\Documents and Settings\Euphie\My Documents\Four! + AI\Four!\bin\Debug\Four!.exe
+C:\Documents and Settings\Euphie\My Documents\Four! + AI\Four!\bin\Debug\Four!.pdb
+C:\Documents and Settings\Euphie\My Documents\Four! + AI\Four!\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Euphie\My Documents\Four! + AI\Four!\obj\Debug\Four_.Form1.resources
+C:\Documents and Settings\Euphie\My Documents\Four! + AI\Four!\obj\Debug\Four_.Form2.resources
+C:\Documents and Settings\Euphie\My Documents\Four! + AI\Four!\obj\Debug\Four_.Properties.Resources.resources
+C:\Documents and Settings\Euphie\My Documents\Four! + AI\Four!\obj\Debug\Four_.Resource1.resources
+C:\Documents and Settings\Euphie\My Documents\Four! + AI\Four!\obj\Debug\Four!.csproj.GenerateResource.Cache

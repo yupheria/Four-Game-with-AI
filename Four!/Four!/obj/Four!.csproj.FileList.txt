@@ -1,0 +1,8 @@
+obj\Debug\Four!.exe
+obj\Debug\Four!.pdb
+bin\Debug\Four!.exe
+bin\Debug\Four!.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Four_.Form1.resources
+obj\Debug\Four_.Properties.Resources.resources
+obj\Debug\Four!.csproj.GenerateResource.Cache

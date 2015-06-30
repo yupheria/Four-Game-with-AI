@@ -1,0 +1,7 @@
+smylys: psst
+silverglaze8108: ?
+smylys: pahingi ng magandang evaluation function
+silverglaze8108: ung ginawa ko..
+silverglaze8108: add mo ung per column,row taz diagonal
+silverglaze8108: taz pag 2 magkatabi 4 vaue, pag 3 eh 9 value nya
+silverglaze8108: taz pag ung sa diagonal eh ung nakakabuo lang ng 4 and above kinuha ko

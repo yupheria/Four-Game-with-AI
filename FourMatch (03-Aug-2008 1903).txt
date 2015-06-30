@@ -1,0 +1,33 @@
+Four! Match
+
+Match Date : 03-Aug-2008 07:03 PM
+
+Red Player : he
+Blue Player: ha
+
+Match Transcript:
+08 (he)
+04 (ha)
+09 (he)
+10 (ha)
+04 (he)
+11 (ha)
+05 (he)
+03 (ha)
+05 (he)
+08 (ha)
+06 (he)
+04 (ha)
+09 (he)
+09 (ha)
+06 (he)
+07 (ha)
+02 (he)
+07 (ha)
+07 (he)
+01 (ha)
+01 (he)
+06 (ha)
+06 (he)
+
+he Wins (Four!)
